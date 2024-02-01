@@ -1,5 +1,5 @@
 import streamlit as st
-import replicate-python
+import replicate
 import os
 
 st.set_page_config(page_title="Liama based apollo chatbot")
